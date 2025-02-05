@@ -1,6 +1,7 @@
 # Power-BI-Sales-Analytics-Dashboard
-This repository contains a interactive Sales Analytics Dashboard built using Power BI. The dashboard provides insights into total sales, profit %, shipments, cost, box shipment and key business metrics helping businesses make data driven decisions.
-# 📊 Power BI Sales Analytics Dashboard  
+This repository contains a interactive Sales Analytics Dashboard built using Power BI. 
+The dashboard provides insights into total sales, profit %, shipments, cost, box shipment and key business metrics helping businesses make data driven decisions.
+
 
 🚀 Overview  
 This Power BI dashboard provides sales analytics insights helping businesses track total sales, profit margins, shipment trends, and key performance indicators (KPIs). The project demonstrates data modeling, DAX calculations and interactive visualizations in Power BI.  
@@ -24,6 +25,4 @@ The data used in this project is sample sales data for a fictional company. It i
 - Star Schema Data Modeling – For optimized performance  
 
 📢 Let's Connect!  
-I’d love to hear your thoughts on this project! Connect with me on [LinkedIn](your-linkedin-profile) and check out the live project on [GitHub Pages](your-github-page-link).  
-
-#PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization  
+I’d love to hear your thoughts on this project! Connect with me on [LinkedIn](your-linkedin-profile) 
